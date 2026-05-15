@@ -4,7 +4,11 @@ IT student at <img src="https://ceiti.md/favicon.ico" height="14" style="vertica
 
 Currently building JavaFX + SQL projects for school. Still early, but getting there.
 
-# Contacts!
+# My Skills!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,java,py,blender,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
+
+# My Contacts!
 [![Personal](https://img.shields.io/badge/Personal-liliancojocaru08@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liliancojocaru08@gmail.com)
 
 
@@ -13,6 +17,3 @@ Currently building JavaFX + SQL projects for school. Still early, but getting th
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cojocarulilian)
 
-# My skills!
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,java,py,blender,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
