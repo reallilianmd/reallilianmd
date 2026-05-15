@@ -1,6 +1,6 @@
 ## Hi! Lilian Here!
 
-IT student from Chișinău — writing Java and C++, figuring the rest out.
+IT student at [![CEITI](https://ceiti.md)] from Chișinău — writing Java and C++, figuring the rest out.
 
 Currently building JavaFX + SQL projects for school. Still early, but getting there.
 
