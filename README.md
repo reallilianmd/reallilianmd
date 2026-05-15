@@ -8,4 +8,4 @@ Currently building JavaFX + SQL projects for school. Still early, but getting th
 
 # My skills!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,blender,java,py,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,java,py,blender,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
