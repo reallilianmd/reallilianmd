@@ -1,6 +1,6 @@
 ## Hi! Lilian Here!
 
-IT student at <img src="https://ceiti.md/favicon.ico" height="14" style="vertical-align: middle;" /> [CEITI](https://ceiti.md) from Chișinău — writing Java and C++, figuring the rest out.
+IT student at <img src="https://ceiti.md/favicon.ico" height="14" style="vertical-align: middle;" /> [![CEITI](https://img.shields.io/badge/CEITI-Chișinău-darkblue?style=flat)](https://ceiti.md) from Chișinău — writing Java and C++, figuring the rest out.
 
 Currently building JavaFX + SQL projects for school. Still early, but getting there.
 
