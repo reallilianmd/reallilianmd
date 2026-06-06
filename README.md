@@ -7,7 +7,7 @@ IT student at <img src="https://ceiti.md/favicon.ico" height="14" style="vertica
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,java,py,blender,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
 
 # My Contacts!
-[![Personal](https://img.shields.io/badge/Personal-liliancojocaru08@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liliancojocaru08@gmail.com)
+[![Personal](https://img.shields.io/badge/Personal-23cojocaru@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:23cojocaru@gmail.com)
 
 
 [![School](https://img.shields.io/badge/School-cojocaru.lilian@ceiti.md-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:cojocaru.lilian@ceiti.md)
