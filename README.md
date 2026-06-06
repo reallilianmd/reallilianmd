@@ -2,8 +2,6 @@
 
 IT student at <img src="https://ceiti.md/favicon.ico" height="14" style="vertical-align: middle;" /> [CEITI](https://ceiti.md) from Chișinău — writing Java and C++, figuring the rest out.
 
-Currently building JavaFX + SQL projects for school. Still early, but getting there.
-
 # My Skills!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,java,py,blender,ps,unity,visualstudio,vscode,windows,arch)](https://skillicons.dev)
